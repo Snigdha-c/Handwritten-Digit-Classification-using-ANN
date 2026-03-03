@@ -1,6 +1,6 @@
 # Handwritten-Digit-Classification-using-ANN
 Handwritten Digit Classification using ANN
-📌 Project Overview
+📌 Project Overview:\n
 This project implements a fully connected Artificial Neural Network (ANN) to classify (and predict) handwritten digits (0–9) using the MNIST dataset.
 
 🎯 Goal
